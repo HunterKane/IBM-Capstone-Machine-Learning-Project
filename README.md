@@ -2,6 +2,27 @@
 
 # Final Assignment
 
+Objective: Build a classifier to predict whether a loan case will be paid off.
+
+You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models:
+
+- k-Nearest Neighbour
+
+- Decision Tree
+
+- Support Vector Machine
+
+- Logistic Regression
+
+__The results is reported as the accuracy of each classifier, using the following metrics when these are applicable:__
+
+- Jaccard index
+
+- F1-score
+
+- LogLoass
+
+
 ## Review Criteria
 
 This final project will be graded by your peers who are completing this course during the same session. This project is worth **25** marks of your total grade, broken down as follows:

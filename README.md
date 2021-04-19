@@ -20,7 +20,7 @@ __The results is reported as the accuracy of each classifier, using the followin
 
 - F1-score
 
-- LogLoass
+- LogLoss
 
 
 ## Review Criteria
